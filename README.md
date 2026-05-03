@@ -83,3 +83,6 @@ skillswap/
 - Backend runs on http://localhost:8000
 - Frontend runs on http://localhost:5173
 - Update CORS and API endpoints as needed
+
+
+Use this API key for the tesing the model: "AIzaSyDDq2-DusLGPGQ1ocmY1EpAoBPnZsL0psw"
